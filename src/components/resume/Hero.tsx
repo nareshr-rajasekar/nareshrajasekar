@@ -16,15 +16,15 @@ const Hero = () => {
           <div className="flex flex-wrap justify-center gap-6 mb-12 text-sm md:text-base">
             <div className="flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <span>+91-8072605009</span>
+              <span>+91-8072605889</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4" />
-              <span>nareshr@gmail.com</span>
+              <span>nareshrrajasekar@gmail.com</span>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-4 h-4" />
-              <span>Chennai, India</span>
+              <span>Bangalore, India</span>
             </div>
           </div>
           <Button 

@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: 'Ice Rink Management System',
       description: 'End-to-end design and deployment of a modern facility and POS solution, with emphasis on usability, real-time management, and operational security.',
-      technologies: ['React', 'Node.js', 'PostgreSQL', 'QR Codes', 'Role-based Access'],
+      technologies: ['Angular', 'Node.js', 'Nest.js', 'Microservices' ,'PostgreSQL', 'Multi Tenent'],
       highlights: [
         'Full project lifecycle ownership',
         'Customizable POS system',
@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: 'E-commerce Merchant App',
       description: 'Empowered merchants with tools for seamless order, stock, and catalogue management, and actionable sales analytics.',
-      technologies: ['Angular', 'Express.js', 'MongoDB', 'Analytics Dashboard', 'Multi-role Permissions'],
+      technologies: ['React', 'Express.js','MySQL','Analytics Dashboard', 'Multi-role Permissions'],
       highlights: [
         'Comprehensive store management',
         'Real-time inventory tracking',
@@ -31,7 +31,7 @@ const Projects = () => {
     {
       title: 'Food Order Management Platform',
       description: 'Streamlined food ordering and pickup processes with QR integration and workflow automation.',
-      technologies: ['React', 'Nest.js', 'MySQL', 'QR Generation', 'Email Automation'],
+      technologies: ['React', 'Nest.js', 'MongoDB', 'QR Generation', 'Email Automation'],
       highlights: [
         'Admin and customer portals',
         'QR code restaurant identification',

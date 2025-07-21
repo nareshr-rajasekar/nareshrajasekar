@@ -30,7 +30,7 @@ const Footer = () => {
               </div>
             </div>
             <h3 className="font-semibold mb-2">Phone</h3>
-            <p className="opacity-90">+91-8072605009</p>
+            <p className="opacity-90">+91-8072605889</p>
           </div>
           
           <div className="text-center">
@@ -40,7 +40,7 @@ const Footer = () => {
               </div>
             </div>
             <h3 className="font-semibold mb-2">Email</h3>
-            <p className="opacity-90">nareshr@gmail.com</p>
+            <p className="opacity-90">nareshrrajasekar@gmail.com</p>
           </div>
           
           <div className="text-center">
@@ -50,13 +50,13 @@ const Footer = () => {
               </div>
             </div>
             <h3 className="font-semibold mb-2">Location</h3>
-            <p className="opacity-90">Chennai, India</p>
+            <p className="opacity-90">Bangalore, India</p>
           </div>
         </div>
         
         <div className="text-center border-t border-white/20 pt-8">
           <p className="opacity-75">
-            © 2024 Naresh Rajasekar. Built with React and passion for clean code.
+            © 2025 Naresh Rajasekar. Built with React and passion for clean code.
           </p>
         </div>
       </div>

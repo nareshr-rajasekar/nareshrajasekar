@@ -7,7 +7,7 @@ const Skills = () => {
     {
       title: 'Languages',
       icon: <Code className="w-6 h-6" />,
-      skills: ['JavaScript', 'TypeScript']
+      skills: ['JavaScript', 'TypeScript', 'Python']
     },
     {
       title: 'Frontend',
@@ -32,7 +32,7 @@ const Skills = () => {
     {
       title: 'Cloud & Tools',
       icon: <Cloud className="w-6 h-6" />,
-      skills: ['AWS (basic hosting)', 'GitHub', 'Postman', 'Swagger', 'JIRA', 'RESTful API Development', 'Agile (Scrum)']
+      skills: ['AWS', 'GitHub', 'Postman', 'Swagger', 'JIRA', 'RESTful API Development', 'Agile (Scrum)']
     }
   ];
 
