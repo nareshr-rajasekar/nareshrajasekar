@@ -27,14 +27,23 @@ const Hero = () => {
               <span>Bangalore, India</span>
             </div>
           </div>
-          <Button 
-            size="lg" 
+        <Button
+             size="lg" 
             variant="secondary" 
-            className="hover:scale-105 transition-transform duration-300"
-          >
-            <Download className="w-4 h-4 mr-2" />
-            Download Resume
-          </Button>
+            className="hover:scale-105 transition-transform duration-300" 
+        asChild>
+  <a
+    href="/Naresh Rajasekar Resume.pdf"
+    download
+    className="inline-flex items-center"
+  >
+    <Download className="w-5 h-5 mr-2" />
+    Download Resume
+  </a>
+</Button>
+
+           
+
         </div>
       </div>
     </section>

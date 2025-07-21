@@ -5,7 +5,7 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: 'Ice Rink Management System',
+      title: 'Facility Management System',
       description: 'End-to-end design and deployment of a modern facility and POS solution, with emphasis on usability, real-time management, and operational security.',
       technologies: ['Angular', 'Node.js', 'Nest.js', 'Microservices' ,'PostgreSQL', 'Multi Tenent'],
       highlights: [

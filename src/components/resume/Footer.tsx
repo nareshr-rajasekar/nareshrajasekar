@@ -17,8 +17,16 @@ const Footer = () => {
             variant="secondary"
             className="hover:scale-105 transition-transform duration-300"
           >
-            <Mail className="w-4 h-4 mr-2" />
-            Get In Touch
+<a
+  href="https://mail.google.com/mail/?view=cm&to=nareshrrajesekar@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center text-sm font-medium text-blue-600 hover:underline"
+>
+  <Mail className="w-4 h-4 mr-2" />
+  Get In Touch
+</a>
+
           </Button>
         </div>
         
